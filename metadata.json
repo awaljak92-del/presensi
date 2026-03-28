@@ -1,0 +1,8 @@
+{
+  "name": "The Precision Presence",
+  "description": "A secure biometric attendance application with location verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
